@@ -5,8 +5,8 @@ import android.os.Bundle
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
 import dagger.hilt.android.AndroidEntryPoint
-import ir.cena.justrun.Constants.gone
-import ir.cena.justrun.Constants.visible
+import ir.cena.justrun.other.Constants.gone
+import ir.cena.justrun.other.Constants.visible
 import kotlinx.android.synthetic.main.activity_main.*
 
 @AndroidEntryPoint
