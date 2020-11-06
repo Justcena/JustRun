@@ -1,4 +1,4 @@
-package ir.cena.justrun.di.fragments
+package ir.cena.justrun.ui.fragments
 
 import androidx.fragment.app.Fragment
 import ir.cena.justrun.R
